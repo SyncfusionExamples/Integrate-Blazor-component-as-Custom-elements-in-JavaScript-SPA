@@ -34,7 +34,7 @@ npm start
 
 Now browse to [http://localhost:4200/](http://localhost:4200/), the Angular application dynamically renders the Blazor Server components.
 
-![Custom-Element-Output](https://user-images.githubusercontent.com/36289974/214289911-72d0aed3-deea-442b-b75b-906049cb885b.gif)
+<kbd>![Custom-Element-Output](https://user-images.githubusercontent.com/36289974/214289911-72d0aed3-deea-442b-b75b-906049cb885b.gif)</kbd>
 
 ## Reference
 
